@@ -91,14 +91,14 @@ def menu():
         os.system('clear')
         print logo
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n"
-        print '\033[1;94m[1]\033[1;96m  Bangladesh'        print '\033[1;94m[7]\033[1;96m  Korea' 
-                                                         print '\033[1;94m[8]\033[1;93m  Italy'print '\033[1;94m[9]\033[1;96m  Spain'             print '\033[1;94m[10]\033[1;93m Poland'                                                    print '\033[1;94m[11]\033[1;96m Pakistan' print '\033[1;94m[12]\033[1;93m Indonisia' print '\033[1;94m[2]\033[1;93m  USA'
-        print '\033[1;94m[3]\033[1;96m  UK'
-        print '\033[1;94m[4] \033[1;93m India'
-        print '\033[1;94m[5]\033[1;96m  Brazil'
-        print '\033[1;94m[6]\033[1;93m  Japan'
-                             print '\033[1;94m[13]\033[1;91m Update XP-TRICKER'
-        print '[0]\033[1;97m  Exit            '
+        print '\033[1;94m[1]\033[1;96m  Bangladesh'       print '\033[1;94m[7]\033[1;96m  Korea'   
+        print '\033[1;94m[2]\033[1;93m  USA'              print '\033[1;94m[8]\033[1;93m  Italy'
+        print '\033[1;94m[3]\033[1;96m  UK'               print '\033[1;94m[9]\033[1;96m  Spain'            
+        print '\033[1;94m[4] \033[1;93m India'            print '\033[1;94m[10]\033[1;93m Poland'    
+        print '\033[1;94m[5]\033[1;96m  Brazil'           print '\033[1;94m[11]\033[1;96m Pakistan' 
+        print '\033[1;94m[6]\033[1;93m  Japan'            print '\033[1;94m[12]\033[1;93m Indonisia' 
+                                print '\033[1;94m[13]\033[1;91m Update XP-TRICKER'
+                                print '[0]\033[1;97m  Exit            '
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n"
         action()
 
