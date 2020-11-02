@@ -502,18 +502,19 @@ def action():
                                                                                                                                                                                  cps.close()
                                                                                                                                                                                  cpb.append(c+user+pass10)                                                                                             
 
-
                 except:
                         pass
 
         p = ThreadPool(30)
         p.map(main, id)
-        print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰"
+        print 50*'-'
         print '[✓] Process Has Been Completed ....'
         print '[✓] Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
         print('[✓] CP File Has Been Saved : save/checkpoint.txt')
         raw_input('\n[Press Enter To Go Back]')
-        os.system('python2 S.py')
+        os.system('python2 SG.py')
 
 if __name__ == '__main__':
         menu()
+
+                
