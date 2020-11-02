@@ -1,6 +1,78 @@
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
-for n in range(100000):
+for n in range(20000):
+
+    nmbr = random.randint(1111111, 9999999)
+
+    sys.stdout = open('.txt', 'a')
+
+    print(nmbr)
+
+    sys.stdout.flush()
+
+try:
+    import requests
+except ImportError:
+    os.system('pip2 install requests')
+
+try:
+    import mechanize
+except ImportError:
+    os.system('pip2 install mechanize')
+    time.sleep(1)
+    os.system('python2 nmbr.py')
+
+from multiprocessing.pool import ThreadPool
+from requests.exceptions import ConnectionError
+from mechanize import Browser
+
+
+reload(sys)
+sys.setdefaultencoding('utf8')
+br = mechanize.Browser()
+br.set_handle_robots(False)
+br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
+br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
+def exb():
+        print '[!] Exit'
+        os.sys.exit()
+
+def psb(z):
+        for e in z + '\n':
+                sys.stdout.write(e)
+                sys.stdout.flush()
+                time.sleep(0.03)
+
+def t():
+    time.sleep(1)
+def cb():
+    os.system('clear')
+##### LOGO #####
+
+#CYBER NAME BLACK-KILLER
+#GITHUB: https://github.com/ShuBhamg0sain
+#WHATAPP NO +919557777030
+import os
+CorrectUsername = "g0sain"
+CorrectPassword = "sim"
+
+loop = 'true'
+while (loop == 'true'):
+    username = raw_input("\033[1;96m[#] \x1b[0;36m Enter Username\x1b[1;92m➤ ")
+    if (username == CorrectUsername):
+    	password = raw_input("\033[1;96m[#] \x1b[0;36m Enter Password\x1b[1;92m➤ ")
+        if (password == CorrectPassword):
+            print "Logged in successfully as " + username #fb-cloning-id SG
+            loop = 'false'
+        else:
+            print "Wrong password!"
+            os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
+    else:
+        print "Wrong username!"
+        os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
+os.system('rm -rf .txt')
+for n in range(200000):
 
     nmbr = random.randint(1111111, 9999999)
 
@@ -79,6 +151,7 @@ logo='''
 \x1b[1;95m➣  WARNING  : DON,T CALL ME ONLY TEXT
 \x1b[1;97m➣  NOTE     : USE FAST 4G SIM NET
 \x1b[1;93m--------------------------------------------------------------
+                                '''
 
 back = 0
 successful = []
@@ -91,14 +164,12 @@ def menu():
         os.system('clear')
         print logo
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n"
-        print '\033[1;94m[1]\033[1;96m  Bangladesh'       print '\033[1;94m[7]\033[1;96m  Korea'   
-        print '\033[1;94m[2]\033[1;93m  USA'              print '\033[1;94m[8]\033[1;93m  Italy'
-        print '\033[1;94m[3]\033[1;96m  UK'               print '\033[1;94m[9]\033[1;96m  Spain'            
-        print '\033[1;94m[4] \033[1;93m India'            print '\033[1;94m[10]\033[1;93m Poland'    
-        print '\033[1;94m[5]\033[1;96m  Brazil'           print '\033[1;94m[11]\033[1;96m Pakistan' 
-        print '\033[1;94m[6]\033[1;93m  Japan'            print '\033[1;94m[12]\033[1;93m Indonisia' 
-                                print '\033[1;94m[13]\033[1;91m Update XP-TRICKER'
-                                print '[0]\033[1;97m  Exit            '
+        print '\033[1;94m[1]\033[1;96m  Bangladesh'      
+        print '\033[1;94m[2]\033[1;93m  USA'        
+        print '\033[1;94m[3]\033[1;96m  UK'       
+        print '\033[1;94m[4] \033[1;93m India'          
+        print '\033[1;94m[5]\033[1;96m  Brazil'        
+        print '\033[1;94m[6]\033[1;93m  Japan'         
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n"
         action()
 
