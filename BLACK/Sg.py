@@ -170,8 +170,8 @@ def menu():
         print '\033[1;94m[4] \033[1;93m India        \033[1;94m[10]\033[1;93m Poland'
         print '\033[1;94m[5]\033[1;96m  Brazil       \033[1;94m[11]\033[1;96m Pakistan'
         print '\033[1;94m[6]\033[1;93m  Japan        \033[1;94m[12]\033[1;93m Indonisia'
-                        print '\033[1;94m[13]\033[1;91m Update XP-TRICKER'
-                        print '[0]\033[1;97m  Exit
+        print '\033[1;94m[13]\033[1;91m Update XP-TRICKER'
+        print '[0]\033[1;97m  Exit'
         print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰\n"
         action()
 
