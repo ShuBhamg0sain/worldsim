@@ -1,10 +1,7 @@
 # worldsallsim-v1
-# note
-# find me for ussername and password
-# Find me on 
-
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
+
 
 # installation
 
@@ -22,7 +19,7 @@ pkg install python2 -y
 
  pip2 install mechanize
 
- git clone https://github.com/ShuBhamg0sain/worldsallsim-v1
+ git clone https://github.com/shubhamg0sai/worldsallsim-v1
 
 cd worldsallsim-v1
 
